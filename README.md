@@ -22,7 +22,7 @@ In `/dev/disk/by-id` there exists a full list of all disks in the system (and pa
 
 # Known Issues
 
-* Only supports device names in the form /dev/sdX. For e.g. SAS-attached drives, those on hardware RAID controllers, and even just NVMe controllers, lookup by device name doesn't work.
+* Only supports device names in the form /dev/sdX. For e.g. SAS-attached drives, those on hardware RAID controllers, and even just NVMe controllers, lookup by device name doesn't work. More details under Issues.
 
 
 # Todo
